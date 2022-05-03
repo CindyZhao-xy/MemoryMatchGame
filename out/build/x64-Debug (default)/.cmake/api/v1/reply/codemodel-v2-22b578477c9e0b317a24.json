@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FinalProjectTemplate",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FinalProjectTemplate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FinalProjectTemplate-Debug-dc3c153620f6d6e51c6b.json",
+					"name" : "FinalProjectTemplate",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "S:/2020 - Summer/CST8219 C++ workplace/FinalProjectTemplate_M/out/build/x64-Debug (default)",
+		"source" : "S:/2020 - Summer/CST8219 C++ workplace/FinalProjectTemplate_M"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
